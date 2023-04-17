@@ -1,0 +1,3 @@
+# .prettierignore file
+dist/
+node_modules/
