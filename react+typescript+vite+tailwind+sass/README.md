@@ -1,6 +1,11 @@
 ## Getting started
 
-This is a ready template for design `Pure React Project` with `Vite` as dev server and build tools, use `Typescript` for type checking and use `Tailwind` as css library with `sass`
+This is a ready template for design `Pure React Project`
+
+- `Typescript` as type checking library
+- `Vitejs` as dev server
+- `Tailwind` with `sass` as css library
+- config `ESLint`, `Prettier` for better development experience
 
 ## Install Packages
 
