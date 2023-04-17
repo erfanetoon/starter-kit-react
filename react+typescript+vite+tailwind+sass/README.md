@@ -13,19 +13,16 @@ At first you must install dependencies with below command:
 
 ```
 npm i
-
 ```
 
 ## Run development
 
 ```
 npm run dev
-
 ```
 
 ## Build
 
 ```
 npm run build
-
 ```
